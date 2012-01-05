@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://blog.jarea.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 分享 | My Octopress Blog]]></title>
+  <link href="http://blog.jarea.net/blog/categories/分享/atom.xml" rel="self"/>
   <link href="http://blog.jarea.net/"/>
   <updated>2012-01-05T17:11:24+08:00</updated>
   <id>http://blog.jarea.net/</id>
@@ -23,15 +23,15 @@
 
 <div>
 
-  &#8220;`ruby
+  ```ruby
     def foo
-      hahahaha&#8230;Hello! World!!
+      hahahaha...Hello! World!!
     end
-  &#8220;`
+  ```
 
-  &#8220;`haml
+  ```haml
     %div Hello! World!!
-  &#8220;`
+  ```
 
 </div>
 
