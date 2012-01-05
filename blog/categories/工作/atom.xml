@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 工作 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: 工作 | Jason @ Jarea Deisgn]]></title>
   <link href="http://blog.jarea.net/blog/categories/工作/atom.xml" rel="self"/>
   <link href="http://blog.jarea.net/"/>
-  <updated>2012-01-05T17:13:11+08:00</updated>
+  <updated>2012-01-05T17:19:42+08:00</updated>
   <id>http://blog.jarea.net/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jason Chen]]></name>
     <email><![CDATA[jason@jarea.net]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
