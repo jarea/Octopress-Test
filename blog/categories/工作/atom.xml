@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 工作 | My Octopress Blog]]></title>
   <link href="http://blog.jarea.net/blog/categories/工作/atom.xml" rel="self"/>
   <link href="http://blog.jarea.net/"/>
-  <updated>2012-01-05T17:11:24+08:00</updated>
+  <updated>2012-01-05T17:13:11+08:00</updated>
   <id>http://blog.jarea.net/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -23,15 +23,15 @@
 
 <div>
 
-  ```ruby
-    def foo
-      hahahaha...Hello! World!!
-    end
-  ```
+```ruby
+  def foo
+    hahahaha...Hello! World!!
+  end
+```
 
-  ```haml
-    %div Hello! World!!
-  ```
+```haml
+  %div Hello! World!!
+```
 
 </div>
 
